@@ -1,9 +1,5 @@
-## Hi there 👋
-
-<!--
-**deyanismartelohereira-commits/deyanismartelohereira-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Hi there 👋
+## My name is Deyanis Martelo 
 
 - 🔭 I’m currently working on improving my English
 - 🌱 I’m currently learning Software Programming
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Discord, GitHub, or WhatsApp
 - 😄 Pronouns: She
 - ⚡ Fun fact: I like to read and I learn quickly
--->
+
